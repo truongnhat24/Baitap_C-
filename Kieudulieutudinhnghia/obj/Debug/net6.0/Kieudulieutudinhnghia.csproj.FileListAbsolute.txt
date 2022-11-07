@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\bin\Debug\net6.0\Kieudulieutudinhnghia.exe
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\bin\Debug\net6.0\Kieudulieutudinhnghia.deps.json
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\bin\Debug\net6.0\Kieudulieutudinhnghia.runtimeconfig.json
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\bin\Debug\net6.0\Kieudulieutudinhnghia.dll
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\bin\Debug\net6.0\Kieudulieutudinhnghia.pdb
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.AssemblyInfo.cs
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.dll
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\refint\Kieudulieutudinhnghia.dll
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.pdb
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\Kieudulieutudinhnghia.genruntimeconfig.cache
+C:\Users\win\source\repos\Kieudulieutudinhnghia\Kieudulieutudinhnghia\obj\Debug\net6.0\ref\Kieudulieutudinhnghia.dll
